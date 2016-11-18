@@ -35,6 +35,7 @@
     //1st view
     /*ViewControllerRGB *lvc = [[ViewControllerRGB alloc] init];*/
     
+    //This is to update git repository
     
     //2nd view
     /*PickerViewController *lvc = [[PickerViewController alloc] init];*/
